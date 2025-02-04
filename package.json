@@ -1,5 +1,5 @@
 {
-  "name": "@shashi/react-ui-scrollspy",
+  "name": "@shashi_srinath/react-ui-scrollspy",
   "version": "2.4.0",
   "description": "Fork of react-ui-scrollspy",
   "main": "dist/index.js",
