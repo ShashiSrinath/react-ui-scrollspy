@@ -1,7 +1,7 @@
 {
-  "name": "react-ui-scrollspy",
+  "name": "@shashi/react-ui-scrollspy",
   "version": "2.4.0",
-  "description": "Simple, Easy To Use and Customisable ScrollSpy component for react with callback, typescript and throttle support among others",
+  "description": "Fork of react-ui-scrollspy",
   "main": "dist/index.js",
   "scripts": {
     "build": "rollup -c",
@@ -9,13 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pettiboy/react-ui-scrollspy.git"
+    "url": "git+https://github.com/ShashiSrinath/react-ui-scrollspy.git"
   },
   "bugs": {
-    "url": "https://github.com/pettiboy/react-ui-scrollspy/issues"
+    "url": "https://github.com/ShashiSrinath/react-ui-scrollspy/issues"
   },
-  "homepage": "https://github.com/pettiboy/react-ui-scrollspy#readme",
+  "homepage": "https://github.com/ShashiSrinath/react-ui-scrollspy#readme",
   "author": "Hussain Pettiwala",
+  "contributors": ["Shashi Srinath"],
   "license": "MIT",
   "keywords": [
     "react",

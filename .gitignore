@@ -16,3 +16,4 @@ node_modules
 *.tgz
 
 demo-app-2
+/.idea/
