@@ -19,7 +19,7 @@ Make sure you ⭐️ this [`repository`](https://github.com/pettiboy/react-ui-sc
 
 ## ✨ Installation
 
-### React 18
+### React 19
 
 ```bash
 npm install --save react-ui-scrollspy
@@ -29,6 +29,18 @@ OR
 
 ```bash
 yarn add react-ui-scrollspy
+```
+
+### React 18
+
+```bash
+npm install --save react-ui-scrollspy@2.3.0
+```
+
+OR
+
+```bash
+yarn add react-ui-scrollspy@2.3.0
 ```
 
 ### React 17 and below
